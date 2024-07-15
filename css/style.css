@@ -1,0 +1,16 @@
+.p3{
+    padding: 10px 30px;
+}
+.bg{
+    border-radius: 30px;
+    background-color: rgb(177, 205, 205);
+}
+th{
+    background-color: aqua;
+    color: brown;
+    
+}
+td{
+   background-color: azure;
+   color: brown;
+}
